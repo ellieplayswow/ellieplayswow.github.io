@@ -16,7 +16,7 @@ const config = {
         //    base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
         //},
         prerender: {
-            entries: []
+            entries: ['*']
         },
         alias: {
             '$posts': 'src/posts',
