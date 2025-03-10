@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@theme {
+    --color-pastel: #ff80f9;
+    /* colours from or derived from https://astro-paper.pages.dev/ - thank you! */
+    --color-background: #212737;
+    --color-foreground: #eaedf3;
+    --color-muted: #343f60bf;
+}
