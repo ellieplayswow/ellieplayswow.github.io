@@ -1,0 +1,1 @@
+# best.ellie.StartupConfiguration: https://github.com/flathub/flathub/pull/6547
